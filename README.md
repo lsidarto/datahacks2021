@@ -9,7 +9,7 @@ Additionally, from a technical standpoint, we aimed to utilize the python progra
 
 ---
 
-Prompt:
+Prompt (as given):
 1. Look and explore through the data. Organize your findings and observations in a way that will help you visualize certain patterns.
 2. Extract trends and patterns from the data using:
 a. Data visualization: Create an infographic with no less than three charts (that can
@@ -28,4 +28,8 @@ are spread out in time of founding. Define a model to determine how the wording 
 
 ---
 
-<img src='https://media.discordapp.net/attachments/830289084407742478/830290343445528576/unknown.png'>
+This was my first data science hackathon--my primary role involved using the scikit-learn library to create a machine learning algorithm that determines how the wording between the books of Proverbs, Ecclesiastes (both in the Old Testament), and Wisdom (in the Deuterocanon) have changed. All three books are spread out in time of founding, but are supposedly written by the same author, and are about the same topic: wisdom.
+
+This task was a challenging one, as I had to teach myself foundational machine learning principles, and how to use sklearn, while managing the time zone difference between me and my partner (this hackathon took place virtually, as per currennt events). That said, this was an overall fun and valueable experience; it tested my flexibility, resillience, communications skills, while allowing me to pick up lots of useful skills on the fly, like being able to read documentation efficiently.
+
+Now with the steep learning curve of fundamentals out of the way, I can forsee next year's datathon being a much smoother--possibly even more professional--experience.
