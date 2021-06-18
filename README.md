@@ -7,6 +7,8 @@ Given the data, we aimed to look at any the similarities and discrepancies betwe
 
 Additionally, from a technical standpoint, we aimed to utilize the python programming language to build a machine learning model that predicts the book any given chapter is from, given the chapter's word counts. The dataset was also used to make use of other data analysis and visualization toolkits and packages, such as Pandas, Scikit-learn, and Tableau, to best perform exploratory data analysis (EDA) techniques.
 
+*Please see the ipynb file for the full report.*
+
 ---
 
 Prompt (as given):
@@ -30,6 +32,6 @@ are spread out in time of founding. Define a model to determine how the wording 
 
 This was my first data science hackathon--my primary role involved using the scikit-learn library to create a machine learning algorithm that determines how the wording between the books of Proverbs, Ecclesiastes (both in the Old Testament), and Wisdom (in the Deuterocanon) have changed. All three books are spread out in time of founding, but are supposedly written by the same author, and are about the same topic: wisdom.
 
-This task was a challenging one, as I had to teach myself foundational machine learning principles, and how to use sklearn, while managing the time zone difference between me and my partner (this hackathon took place virtually, as per currennt events). That said, this was an overall fun and valueable experience; it tested my flexibility, resillience, communications skills, while allowing me to pick up lots of useful skills on the fly, like being able to read documentation efficiently.
+This task was a challenging one, as I had to teach myself foundational machine learning principles, and how to use sklearn, while managing the time zone difference between me and my partner (this hackathon took place virtually, as per currennt events). That said, this was an overall fun and valueable experience; it tested my flexibility, resillience, communications skills, while allowing me to pick up lots of useful skills on the fly, like being able to read documentation efficiently. Now with the steep learning curve of fundamentals out of the way, I can forsee next year's datathon being a much smoother experiece, and am excited for the opportunity to challenge it again!
 
-Now with the steep learning curve of fundamentals out of the way, I can forsee next year's datathon being a much smoother--possibly even more professional--experience.
+
